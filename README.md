@@ -1,4 +1,4 @@
-# Rpck Paper Scissors By Typescript Works on Console Made By Marwan Codex
+# Rpck Paper Scissors By Typescript Works on Console Made By Marwan Void.
 This is A Rock Paper Scissors Game Works on Console By Typescript Language
 
 ## In This Program:
